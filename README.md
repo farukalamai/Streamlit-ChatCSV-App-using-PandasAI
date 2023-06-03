@@ -7,8 +7,7 @@ An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
  Generate your OpenAI API key here: <a href="https://platform.openai.com/account/api-keys"> Click Here </a>
 <br>
 <h2> Run locally </h2>
-<p> If you are running the app locally, then you can freely use the API key. <br>
-  in app.py, line 11: <br>
+<p> If you are running the app locally, then you can freely use the API key.
   
   ```
   
@@ -31,8 +30,8 @@ An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
   Henceforth make sure to have Streamlit installed in your system. Run the app by:
   
   ```
-  git clone https://github.com/AIAnytime/ChatCSV-Streamlit-App.git
-  cd ChatCSV-Streamlit-App
+  git clone https://github.com/farukalampro/Streamlit-ChatCSV-App-using-PandasAI.git
+  cd Streamlit-ChatCSV-App-using-PandasAI
   pip install -r requirements.txt
   streamlit run app.py
   
