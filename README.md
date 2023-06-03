@@ -1,5 +1,6 @@
 # ChatCSV-Streamlit-App
 An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
+![chat_with_csv](https://github.com/farukalampro/Streamlit-ChatCSV-App-using-PandasAI/assets/92469073/453683be-f66a-492f-954d-646067e50778)
 
 <h1> How to run the app?</h1>
 <p> OpenAI instantly revokes the API key once it detects that the key has been exposed publicly. So, that's the only thing to take care of.</p>
